@@ -30,13 +30,13 @@ APP_URL=http://localhost:8000
 ### Run the console command to fetch covid 19 status to database or schedule a corn job
 
 ```
-APP_URL=http://localhost:8000
+fetch:sl-covid-stat
 ```
 
 And we're all good to go!
 
 Start up a local development server with `php artisan serve`.
 
-### Run test
+### Run tests
 
 `php artisan test`
